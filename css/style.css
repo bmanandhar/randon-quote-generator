@@ -23,7 +23,7 @@ body {
       border-radius: 15px;
       background: green;
       padding: 2px;
-      width: 300px;
+      width: 350px;
       height: 150px;
   }
   
@@ -32,15 +32,15 @@ body {
   }
   
   .quotes {
-    width: 50%;
+    width: 350px;
+    height: 200px;
     margin-right: auto;
     margin-left: auto;
     border-color: red;
     border-style: solid;
     border-radius: 5px;
-    margin-top: 20px;
-    padding: 20px;
-    height: auto;
+    margin-top: 5px;
+    padding: 5px;
     color: #80bfff;
   }
   
